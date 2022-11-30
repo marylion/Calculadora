@@ -5,15 +5,15 @@
 }
 
 .fundo {
-    background-image: linear-gradient(45deg, pink, purple);
+    background-image: url(img/pexels-monstera-6238050.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-image: linear-gradient(45deg, pink, purple); */
     height: 100vh;
     color: rgb(255, 255, 255);
     
 }
-.fundo h1 {
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+
 
 .calculadora {
     position: absolute;
